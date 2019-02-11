@@ -1,4 +1,22 @@
-#home-section img {
-    display: block;
-    margin: 60px auto 0 auto;
+#home-section {
+    min-height: 900px;
+}
+
+#top-spacing {
+    min-height: 500px;
+}
+
+#background-image {
+    /* background-attachment: fixed; */
+    margin-top: 3.5rem;
+    position: fixed;
+    background: rgba(0,0,0,0.8);
+}
+
+#home-section h1 {
+    font-size: 15rem;
+}
+
+#text {
+    color: #000;
 }
